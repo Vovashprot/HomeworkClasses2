@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9e7c9ac-8a75-4861-ad19-527077b47782" name="Changes" comment="toString done">
+    <list default="true" id="e9e7c9ac-8a75-4861-ad19-527077b47782" name="Changes" comment="toString and hashcode done (i guess)&#10;я не знаю как реализовывать equal. Я не понял совсем">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Author.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +43,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/vovap/IdeaProjects/HomeworkClasses2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -59,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678696288772</updated>
-      <workItem from="1678696289765" duration="2018000" />
+      <workItem from="1678696289765" duration="2485000" />
+      <workItem from="1678739508561" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="starting">
       <created>1678696651535</created>
@@ -68,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678696651535</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="toString and hashcode done (i guess)&#10;я не знаю как реализовывать equal. Я не понял совсем">
+      <created>1678698641558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678698641558</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="starting" />
     <MESSAGE value="toString done" />
-    <option name="LAST_COMMIT_MESSAGE" value="toString done" />
+    <MESSAGE value="toString and hashcode done (i guess)&#10;я не знаю как реализовывать equal. Я не понял совсем" />
+    <option name="LAST_COMMIT_MESSAGE" value="toString and hashcode done (i guess)&#10;я не знаю как реализовывать equal. Я не понял совсем" />
   </component>
 </project>

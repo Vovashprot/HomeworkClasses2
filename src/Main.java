@@ -5,5 +5,7 @@ public class Main {
         Book twelveChairs = new Book("12 стульев", ilyaIlf, 1928);
         Book lordOfTheFlies = new Book("Повелитель мух", williamGolding, 1954);
         lordOfTheFlies.setPublishingYear(1963);
+        System.out.println(twelveChairs);
+        System.out.println(lordOfTheFlies);
     }
 }

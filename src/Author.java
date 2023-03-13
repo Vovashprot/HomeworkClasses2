@@ -12,7 +12,10 @@ public class Author {
         return this.authorLastName;
     }
     public String toString(){
-
+    return authorName +" "+ authorLastName;
+    }
+    public int hashCode() {
+        return java.util.Objects.hash(authorName);
     }
 
 }

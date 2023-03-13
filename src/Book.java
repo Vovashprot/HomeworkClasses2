@@ -19,4 +19,11 @@ public class Book {
     public void setPublishingYear(int publishingYear){
         this.publishingYear = publishingYear;
     }
+    public String toString(){
+        return author +" "+ bookName + " " + publishingYear;
+    }
+    public int hashCode() {
+        return java.util.Objects.hash(bookName);
+    }
+
 }
